@@ -1,0 +1,372 @@
+Region,Code,Name,Complaints
+North East,5D7,Newcastle PCT,25
+North East,5D8,North Tyneside PCT,27
+North East,5D9,Hartlepool PCT,18
+North East,5E1,Stockton-On-Tees Teaching PCT,95
+North East,5J9,Darlington PCT,91
+North East,5KF,Gateshead PCT,19
+North East,5KG,South Tyneside PCT,27
+North East,5KL,Sunderland Teaching PCT,46
+North East,5KM,Middlesbrough PCT,13
+North East,5ND,County Durham PCT,56
+North East,5QR,Redcar & Cleveland PCT,38
+North East,RE9,South Tyneside Health Care NHS Trust,294
+North East,RLN,City Hospitals Sunderland NHS Foundation Trust,422
+North East,RR7,Gateshead Health NHS Trust,223
+North East,RTD,Newcastle Upon Tyne Hospitals NHS Trust,496
+North East,RTR,South Tees Hospitals NHS Trust,317
+North East,RVW,North Tees And Hartlepool NHS Trust,268
+North East,RX3,"Tees, Esk and Wear Valleys NHS Trust",104
+North East,RX4,"Northumberland, Tyne and Wear NHS Trust",128
+North East,RX6,North East Ambulance Service NHS Trust,120
+North East,RXP,County Durham And Darlington Acute Hospitals NHS Trust,524
+North East,TAC,Northumberland Care Trust,26
+North West,5CC,Blackburn With Darwen PCT,25
+North West,5F5,Salford PCT,79
+North West,5F7,Stockport PCT,81
+North West,5HG,"Ashton, Leigh And Wigan PCT",86
+North West,5HP,Blackpool PCT,15
+North West,5HQ,Bolton PCT,180
+North West,5J2,Warrington PCT,68
+North West,5J4,Knowsley PCT,71
+North West,5J5,Oldham PCT,68
+North West,5JX,Bury PCT,24
+North West,5LH,Tameside & Glossop PCT,49
+North West,5NE,Cumbria PCT,87
+North West,5NF,North Lancashire PCT,89
+North West,5NG,Central Lancashire PCT,134
+North West,5NH,East Lancashire PCT,127
+North West,5NJ,Sefton PCT,67
+North West,5NK,Wirral PCT,35
+North West,5NL,Liverpool PCT,31
+North West,5NM,Halton & St. Helens PCT,74
+North West,5NN,Western Cheshire PCT,71
+North West,5NP,Central & Eastern Cheshire PCT,103
+North West,5NQ,"Heywood, Middleton & Rochdale PCT",27
+North West,5NR,Trafford PCT,42
+North West,5NT,Manchester PCT,115
+North West,RBL,Wirral Hospital NHS Trust,357
+North West,RBN,St Helens And Knowsley Hospitals NHS Trust,381
+North West,RBQ,Cardiothoracic Centre - Liverpool NHS Trust,54
+North West,RBS,Royal Liverpool Childrens NHS Trust,130
+North West,RBT,Mid Cheshire Hospitals NHS Trust,268
+North West,RBV,Christie Hospital NHS Trust,102
+North West,REM,Aintree Hospitals NHS Trust,353
+North West,REN,Clatterbridge Centre For Oncology NHS Trust,14
+North West,REP,Liverpool Womens Hospital NHS Foundation Trust,108
+North West,RET,Walton Centre For Neurology And Neurosurgery NHS Trust,98
+North West,RJN,East Cheshire NHS Trust,130
+North West,RJR,Countess Of Chester NHS Foundation Trust,207
+North West,RJX,Calderstones NHS Trust,87
+North West,RM2,South Manchester University Hospitals NHS Trust,407
+North West,RM3,Salford Royal Hospitals NHS Trust,281
+North West,RM4,Trafford Healthcare NHS Trust,115
+North West,RMC,Bolton Hospitals NHS Trust,322
+North West,RMP,Tameside And Glossop Acute Services NHS Trust,314
+North West,RNL,North Cumbria Acute Hospitals NHS Trust,230
+North West,RNN,North Cumbria Mental Health And Learning Disabilities NHS Trust,66
+North West,RQ6,Royal Liverpool And Broadgreen Hospitals University NHS Trust,301
+North West,RRF,"Wrightington, Wigan And Leigh NHS Trust",518
+North West,RT2,Pennine Care NHS Trust,128
+North West,RTV,5 Borough Partnership NHS Trust,124
+North West,RTX,Morecambe Bay Hospitals NHS Trust,482
+North West,RVY,Southport And Ormskirk Hospital NHS Trust,259
+North West,RW3,Central Manchester And Manchester Children's University Hospitals NHS Trust,607
+North West,RW4,Mersey Care NHS Trust,406
+North West,RW5,Lancashire Care NHS Trust,243
+North West,RW6,Pennine Acute Hospitals NHS Trust,735
+North West,RWJ,Stockport NHS Foundation Trust,542
+North West,RWW,North Cheshire Hospitals NHS Trust,377
+North West,RX7,North West Ambulance Service NHS Trust,331
+North West,RXA,Cheshire And Wirral Partnership NHS Trust,58
+North West,RXL,"Blackpool, Fylde And Wyre Hospitals NHS Trust",362
+North West,RXR,East Lancashire Hospitals NHS Trust,529
+North West,TAE,Manchester Mental Health And Social Care Trust,140
+Yorkshire and The Humber,5EF,North Lincolnshire PCT,15
+Yorkshire and The Humber,5H8,Rotherham PCT,16
+Yorkshire and The Humber,5J6,Calderdale PCT,60
+Yorkshire and The Humber,5JE,Barnsley PCT,53
+Yorkshire and The Humber,5N1,Leeds PCT,119
+Yorkshire and The Humber,5N2,Kirklees PCT,36
+Yorkshire and The Humber,5N3,Wakefield District PCT,54
+Yorkshire and The Humber,5N4,Sheffield PCT,163
+Yorkshire and The Humber,5N5,Doncaster PCT,29
+Yorkshire and The Humber,5NV,North Yorkshire & York PCT,178
+Yorkshire and The Humber,5NW,East Riding Of Yorkshire PCT,95
+Yorkshire and The Humber,5NX,Hull PCT,24
+Yorkshire and The Humber,5NY,Bradford & Airedale PCT,49
+Yorkshire and The Humber,RAE,Bradford Teaching Hospitals NHS Foundation Trust,350
+Yorkshire and The Humber,RCB,York Health Services NHS Trust,338
+Yorkshire and The Humber,RCC,Scarborough And North East Yorkshire Health Care NHS Trust,223
+Yorkshire and The Humber,RCD,Harrogate Health Care NHS Trust,214
+Yorkshire and The Humber,RCF,Airedale NHS Trust,139
+Yorkshire and The Humber,RFF,Barnsley District General Hospital NHS Trust,274
+Yorkshire and The Humber,RFR,Rotherham General Hospitals NHS Trust,132
+Yorkshire and The Humber,RGD,Leeds Mental Health Teaching NHS Trust,92
+Yorkshire and The Humber,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,696
+Yorkshire and The Humber,RJL,Northern Lincolnshire And Goole Hospitals NHS Trust,367
+Yorkshire and The Humber,RP5,Doncaster And Bassetlaw Hospitals NHS Foundation Trust,393
+Yorkshire and The Humber,RR8,Leeds Teaching Hospitals NHS Trust,1396
+Yorkshire and The Humber,RV9,Humber Mental Health Teaching NHS Trust,87
+Yorkshire and The Humber,RWA,Hull And East Yorkshire Hospitals NHS Trust,388
+Yorkshire and The Humber,RWY,Calderdale And Huddersfield NHS Trust,528
+Yorkshire and The Humber,RX8,Yorkshire Ambulance Service NHS Trust,280
+Yorkshire and The Humber,RXE,Doncaster And South Humber Healthcare NHS Trust,58
+Yorkshire and The Humber,RXF,Mid Yorkshire Hospitals NHS Trust,917
+Yorkshire and The Humber,RXG,South West Yorkshire Mental Health NHS Trust,104
+Yorkshire and The Humber,TAD,Bradford District Health And Social Care Trust,62
+Yorkshire and The Humber,TAH,Sheffield Care Trust,68
+Yorkshire and The Humber,TAN,North East Lincolnshire Care Trust Plus,16
+East Midlands,5EM,Nottingham City PCT,72
+East Midlands,5ET,Bassetlaw PCT,21
+East Midlands,5N6,Derbyshire County PCT,237
+East Midlands,5N7,Derby City PCT,37
+East Midlands,5N8,Nottinghamshire County PCT,119
+East Midlands,5N9,Lincolnshire PCT,148
+East Midlands,5PA,Leicestershire County & Rutland PCT,226
+East Midlands,5PC,Leicester City PCT,128
+East Midlands,5PD,Northampton PCT,182
+East Midlands,RFS,Chesterfield And North Derbyshire Royal Hospital NHS Trust,517
+East Midlands,RHA,Nottinghamshire Healthcare NHS Trust,418
+East Midlands,RK5,Sherwood Forest Hospitals NHS Trust,499
+East Midlands,RNQ,Kettering General Hospital NHS Trust,344
+East Midlands,RNS,Northampton General Hospital NHS Trust,601
+East Midlands,RP1,Northamptonshire Healthcare NHS Trust,148
+East Midlands,RP7,Lincolnshire Partnership NHS Trust,79
+East Midlands,RT5,Leicestershire Partnership NHS Trust,230
+East Midlands,RTG,Derby Hospitals NHS Foundation Trust,324
+East Midlands,RWD,United Lincolnshire Hospitals NHS Trust,848
+East Midlands,RWE,University Hospitals Of Leicester NHS Trust,1426
+East Midlands,RX1,Nottingham University Hospitals NHS Trust,986
+East Midlands,RX9,East Midlands Ambulance Service NHS Trust,128
+East Midlands,RXM,Derbyshire Mental Health Services NHS Trust,93
+West Midlands,5CN,Herefordshire PCT,64
+West Midlands,5M1,South Birmingham PCT,84
+West Midlands,5M2,Shropshire County PCT,39
+West Midlands,5M3,Walsall Teaching PCT,70
+West Midlands,5MD,Coventry Teaching PCT,64
+West Midlands,5MK,Telford & Wrekin PCT,32
+West Midlands,5MV,Wolverhampton City PCT,100
+West Midlands,5MX,Heart Of Birmingham Teaching PCT,104
+West Midlands,5PE,Dudley PCT,88
+West Midlands,5PF,Sandwell PCT,54
+West Midlands,5PG,Birmingham East & North PCT,36
+West Midlands,5PH,North Staffordshire PCT,30
+West Midlands,5PJ,Stoke On Trent PCT,56
+West Midlands,5PK,South Staffordshire PCT,162
+West Midlands,5PL,Worcestershire PCT,256
+West Midlands,5PM,Warwickshire PCT,82
+West Midlands,RBK,Walsall Hospitals NHS Trust,303
+West Midlands,RJC,South Warwickshire General Hospitals NHS Trust,223
+West Midlands,RJE,North Staffordshire Hospital NHS Trust,537
+West Midlands,RJF,Burton Hospitals NHS Trust,798
+West Midlands,RKB,University Hospitals Coventry And Warwickshire NHS Trust,456
+West Midlands,RL1,Robert Jones And Agnes Hunt Orthopaedic And District Hospital NHS Trust,78
+West Midlands,RL4,Royal Wolverhampton Hospitals NHS Trust,385
+West Midlands,RLQ,Hereford Hospitals NHS Trust,152
+West Midlands,RLT,George Eliot Hospital NHS Trust,264
+West Midlands,RLU,Birmingham Women's Health Care NHS Trust,99
+West Midlands,RLY,North Staffordshire Combined Healthcare NHS Trust,61
+West Midlands,RNA,Dudley Group Of Hospitals NHS Trust,359
+West Midlands,RQ3,Birmingham Children's Hospital NHS Trust,89
+West Midlands,RRE,South Staffordshire Healthcare NHS Trust,114
+West Midlands,RRK,University Hospital Birmingham NHS  Foundation Trust,609
+West Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,480
+West Midlands,RWQ,Worcestershire Mental Health Partnership NHS Trust,56
+West Midlands,RXK,Sandwell And West Birmingham Hospitals NHS Trust,791
+West Midlands,RXT,Birmingham And Solihull Mental Health NHS Trust,295
+West Midlands,RXW,Shrewsbury And Telford Hospitals NHS Trust,537
+West Midlands,RYA,West Midlands Ambulance Service NHS Trust,195
+West Midlands,RYG,Coventry and Warwickshire Partnership NHS Trust,101
+West Midlands,RYK,Dudley and Walsall Mental Health Partnership NHS Trust,66
+West Midlands,TAJ,Sandwell Mental Health NHS Social Care Trust,17
+West Midlands,TAM,Solihull Care Trust,45
+East of England,5GC,Luton PCT,34
+East of England,5P1,South East Essex PCT,46
+East of England,5P2,Bedfordshire PCT,59
+East of England,5P3,East & North Hertfordshire PCT,85
+East of England,5P4,West Hertfordshire PCT,76
+East of England,5PN,Peterborough PCT,64
+East of England,5PP,Cambridgeshire PCT,108
+East of England,5PQ,Norfolk PCT,142
+East of England,5PR,Great Yarmouth & Waveney PCT,76
+East of England,5PT,Suffolk PCT,94
+East of England,5PV,West Essex PCT,80
+East of England,5PW,North East Essex PCT,83
+East of England,5PX,Mid Essex PCT,39
+East of England,5PY,South West Essex PCT,70
+East of England,RAJ,Southend Hospital NHS Trust,427
+East of England,RC1,Bedford Hospitals NHS Trust,119
+East of England,RC9,Luton And Dunstable Hospital NHS Trust,412
+East of England,RCX,Kings Lynn And Wisbech Hospitals NHS Trust,343
+East of England,RDD,Basildon And Thurrock University Hospitals NHS Foundation Trust,268
+East of England,RDE,Essex Rivers Healthcare NHS Trust,672
+East of England,RGM,Papworth Hospital NHS Foundation Trust,46
+East of England,RGN,Peterborough Hospitals NHS Foundation Trust,372
+East of England,RGP,James Paget Healthcare NHS Trust,283
+East of England,RGQ,Ipswich Hospital NHS Trust,279
+East of England,RGR,West Suffolk Hospitals NHS Trust,204
+East of England,RGT,Cambridge University Hospital NHS Foundation Trust,535
+East of England,RM1,Norfolk And Norwich University Hospital NHS Trust,676
+East of England,RMY,Norfolk & Waveney Mental Health Partnership NHS Trust,18
+East of England,RQ8,Mid Essex Hospital Services NHS Trust,459
+East of England,RQQ,Hinchingbrooke Health Care NHS Trust,159
+East of England,RQW,Princess Alexandra Hospital NHS Trust,522
+East of England,RRD,North Essex Mental Health Partnership NHS Trust,81
+East of England,RT6,Suffolk Mental Health Partnership NHS Trust,116
+East of England,RV7,Bedfordshire And Luton Community NHS Trust,45
+East of England,RWG,West Hertfordshire Hospitals NHS Trust,452
+East of England,RWH,East And North Hertfordshire NHS Trust,1061
+East of England,RWR,Hertfordshire Partnership NHS Trust,137
+East of England,RYC,East Of England Ambulance Service NHS Trust,362
+London,5A4,Havering PCT,117
+London,5A5,Kingston PCT,11
+London,5A7,Bromley PCT,59
+London,5A8,Greenwich Teaching PCT,19
+London,5A9,Barnet PCT,94
+London,5AT,Hillingdon PCT,50
+London,5C1,Enfield PCT,188
+London,5C2,Barking & Dagenham PCT,106
+London,5C3,City & Hackney Teaching PCT,58
+London,5C4,Tower Hamlets PCT,82
+London,5C5,Newham PCT,59
+London,5C9,Haringey Teaching PCT,44
+London,5H1,Hammersmith And Fulham PCT,21
+London,5HX,Ealing PCT,43
+London,5HY,Hounslow PCT,55
+London,5K5,Brent Teaching PCT,88
+London,5K6,Harrow PCT,47
+London,5K7,Camden PCT,105
+London,5K8,Islington PCT,90
+London,5K9,Croydon PCT,42
+London,5LA,Kensington And Chelsea PCT,29
+London,5LC,Westminster PCT,65
+London,5LD,Lambeth PCT,52
+London,5LE,Southwark PCT,76
+London,5LF,Lewisham PCT,82
+London,5LG,Wandsworth PCT,115
+London,5M6,Richmond And Twickenham PCT,37
+London,5M7,Sutton & Merton PCT,90
+London,5NA,Redbridge PCT,52
+London,5NC,Waltham Forest PCT,164
+London,RAL,Royal Free Hampstead NHS Trust,1008
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,173
+London,RAP,North Middlesex University Hospital NHS Trust,296
+London,RAS,Hillingdon Hospital NHS Trust,367
+London,RAX,Kingston Hospital NHS Trust,439
+London,RC3,Ealing Hospital NHS Trust,230
+London,RF4,"Barking, Havering And Redbridge Hospitals NHS Trust",940
+London,RFW,West Middlesex University NHS Trust,312
+London,RG2,Queen Elizabeth Hospital NHS Trust,292
+London,RG3,Bromley Hospitals NHS Trust,426
+London,RGC,Whipps Cross University Hospital NHS Trust,304
+London,RGZ,Queen Mary's Sidcup NHS Trust,265
+London,RJ1,Guy's And St Thomas's NHS Foundation Trust,896
+London,RJ2,Lewisham Hospital NHS Trust,315
+London,RJ6,Mayday Healthcare NHS Trust,518
+London,RJ7,St George's Healthcare NHS Trust,725
+London,RJZ,King's College Hospital NHS Trust,932
+London,RKE,Whittington Hospital NHS Trust,245
+London,RKL,West London Mental Health NHS Trust,220
+London,RNH,Newham Univserity Hospital NHS Trust,282
+London,RNJ,Barts And The London NHS Trust,1066
+London,RP4,Great Ormond Street Hospital For Children NHS Trust,142
+London,RPG,Oxleas NHS Trust,96
+London,RPY,Royal Marsden NHS Foundation Trust,74
+London,RQM,Chelsea And Westminster Healthcare NHS Trust,458
+London,RQY,South West London And St George's Mental Health NHS Trust,280
+London,RRP,"Barnet, Enfield And Haringey Mental Health NHS Trust",184
+London,RRU,London Ambulance Service NHS Trust,371
+London,RRV,University College London Hospitals NHS  Foundation Trust,717
+London,RT3,Royal Brompton And Harefield NHS Trust,71
+London,RV3,Central And North West London Mental Health NHS Trust,206
+London,RV5,South London And Maudsley NHS Trust,518
+London,RV8,North West London Hospitals NHS Trust,719
+London,RVL,Barnet And Chase Farm Hospitals NHS Trust,372
+London,RVR,Epsom And St Helier NHS Trust,467
+London,RWK,East London And The City Mental Health NHS Trust,255
+London,RYJ,Imperial College Health Care Trust,1006
+London,TAK,Bexley Care Trust,57
+South East Coast,5L3,Medway PCT,193
+South East Coast,5LQ,Brighton And Hove City PCT,53
+South East Coast,5P5,Surrey PCT,286
+South East Coast,5P6,West Sussex PCT,188
+South East Coast,5P7,East Sussex Downs & Weald PCT,115
+South East Coast,5P8,Hastings & Rother PCT,37
+South East Coast,5P9,West Kent PCT,172
+South East Coast,5QA,Eastern & Coastal Kent PCT,200
+South East Coast,RA2,Royal Surrey County Hospital NHS Trust,319
+South East Coast,RDR,South Downs Health NHS Trust,168
+South East Coast,RDU,Frimley Park Hospital NHS Foundation Trust,297
+South East Coast,RN7,Dartford And Gravesham NHS Trust,354
+South East Coast,RPA,Medway NHS Trust,476
+South East Coast,RPC,Queen Victoria Hospital NHS Foundation Trust,67
+South East Coast,RPL,Worthing And Southlands Hospitals NHS Trust,347
+South East Coast,RPR,Royal West Sussex NHS Trust,204
+South East Coast,RTK,Ashford And St Peter's Hospitals NHS Trust,401
+South East Coast,RTP,Surrey And Sussex Healthcare NHS Trust,549
+South East Coast,RVV,East Kent Hospitals NHS Trust,731
+South East Coast,RWF,Maidstone And Tunbridge Wells NHS Trust,717
+South East Coast,RX2,Sussex Partnership NHS Trust,264
+South East Coast,RXC,East Sussex Hospitals NHS Trust,481
+South East Coast,RXH,Brighton And Sussex University Hospitals NHS Trust,1030
+South East Coast,RXX,Surrey And Borders Partnership NHS Trust,103
+South East Coast,RXY,Kent & Medway NHS and Social Care Partnership Trust,149
+South East Coast,RYD,South East Coast Ambulance Service NHS Trust,129
+South Central,5CQ,Milton Keynes PCT,157
+South Central,5FE,Portsmouth City Teaching PCT,260
+South Central,5L1,Southampton City PCT,89
+South Central,5QC,Hampshire PCT,222
+South Central,5QD,Buckinghamshire PCT,144
+South Central,5QE,Oxford PCT,78
+South Central,5QF,Berkshire West PCT,66
+South Central,5QG,Berkshire East PCT,45
+South Central,5QT,Isle Of Wight PCT,299
+South Central,RBF,Nuffield Orthopaedic Centre NHS Trust,87
+South Central,RD7,Heatherwood And Wexham Park Hospitals NHS Trust,462
+South Central,RHM,Southampton University Hospitals NHS Trust,741
+South Central,RHU,Portsmouth Hospitals NHS Trust,1119
+South Central,RHX,Oxfordshire Learning Disability NHS Trust,7
+South Central,RN1,Winchester And Eastleigh Healthcare NHS Trust,253
+South Central,RTH,Oxford Radcliffe Hospital NHS Trust,499
+South Central,RW1,Hampshire Partnership NHS Trust,99
+South Central,RWX,Berkshire Healthcare NHS Trust,96
+South Central,RXQ,Buckinghamshire Hospitals NHS Trust,655
+South Central,RYE,South Central Ambulance Service NHS Trust,130
+South West,5A3,South Gloucestershire PCT,37
+South West,5F1,Plymouth Teaching PCT,130
+South West,5FL,Bath & North East Somerset PCT,37
+South West,5K3,Swindon PCT,23
+South West,5M8,North Somerset PCT,19
+South West,5QH,Gloucestershire PCT,214
+South West,5QJ,Bristol PCT,75
+South West,5QK,Wiltshire PCT,111
+South West,5QL,Somerset PCT,80
+South West,5QM,Dorset PCT,83
+South West,5QN,Bournemouth & Poole PCT,51
+South West,5QP,Cornwall & Isles Of Scilly PCT,76
+South West,5QQ,Devon PCT,147
+South West,RA3,Weston Area Health NHS Trust,172
+South West,RA4,East Somerset NHS Trust,254
+South West,RA7,United Bristol Healthcare NHS Trust,558
+South West,RA9,South Devon Health Care NHS Trust,200
+South West,RBA,Taunton And Somerset NHS Trust,459
+South West,RBD,West Dorset General Hospitals NHS Trust,429
+South West,RBZ,Northern Devon Healthcare NHS Trust,224
+South West,RD1,Royal United Hospital Bath NHS Trust,352
+South West,REF,Royal Cornwall Hospitals NHS Trust,293
+South West,RH5,Somerset Partnership NHS And Social Care Trust,64
+South West,RH8,Royal Devon And Exeter Healthcare NHS Foundation Trust,351
+South West,RJ8,Cornwall Partnership NHS Trust,86
+South West,RK9,Plymouth Hospitals NHS Trust,860
+South West,RN3,Swindon And Marlborough NHS Trust,199
+South West,RNZ,Salisbury Health Care NHS Trust,371
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,648
+South West,RTQ,Gloucestershire Partnership NHS Trust,51
+South West,RVJ,North Bristol NHS Trust,690
+South West,RVN,Avon And Wiltshire Mental Health Partnership NHS Trust,204
+South West,RWV,Devon Partnership NHS Trust,120
+South West,RX5,Great Western Ambulance Service NHS Trust,249
+South West,RYF,South Western Ambulance Service NHS Trust,262
+South West,TAL,Torbay Care Trust,26
+Other,RYH,NHS Direct NHS Trust,362
